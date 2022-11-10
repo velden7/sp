@@ -1,0 +1,224 @@
+.Block8__Container{
+    box-sizing: border-box;
+    width: 145px;
+    height: 355px;
+    border: 1px solid black;
+    position: absolute;
+    top: 355px;
+    left: 470px;
+}
+
+.Block8__Part1{
+    height: 70px;
+    box-sizing: border-box;
+    background-color: rgb(252, 228, 216);
+    border-bottom: 1px solid black;
+}
+
+.Block8__Part1-Header{
+    height: 15px;
+    display: flex;
+}
+
+.Block8__Part1-Header-Block{
+    width: 33.3%;
+}
+
+.Block-Colored-Blue{
+    background-color: rgb(11, 109, 182);
+}
+
+.Block-Colored-Green{
+    background-color: rgb(86, 132, 57);
+}
+
+.Block-Colored-LightBlue{
+    background-color: rgb(9, 171, 236);
+}
+
+.Block8__Part1-Center{
+    display: flex;
+    height: 35px;
+}
+
+.Block8__Part1-Center-Left{
+    padding-top: 15px;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.Block8__Part1-Center-Right{
+    color: rgb(155, 39, 146);
+    font-weight: bold;
+    font-size: 34px;
+    padding-left: 12px;
+}
+
+.Block8__Part1-Bottom{
+    box-sizing: border-box;
+    width: 50px;
+    height: 19px;
+    background-color: rgb(131, 61, 12);
+    position: relative;
+    left: 65%;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.Block8__Part2{
+    box-sizing: border-box;
+    border-bottom: 1px solid black;
+    height: 215px;
+    background-color: rgb(252, 228, 216);
+}
+
+.Block8__Part2-Header{
+    height: 15px;
+    display: flex;
+}
+
+.Block8__Part2-Center-Part1{
+    font-size: 28px;
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.Block8__Part2-Center-Part2{
+    height: 130px;
+    padding-top: 5px;
+    display: flex;
+}
+
+.Block8__Part2-Center-Part2-Part{
+    box-sizing: border-box;
+    width: 33.3%;
+    border-right: 1px solid black;
+}
+
+.Block8__Part2-Center-Part2-LastPart{
+    border: none;
+}
+
+.Block8__Part2-Center-Part2-Part1-Part1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Block8__Part2-Center-Part2-Part1-Part2{
+    background-color: yellow;
+    height: 90px;
+}
+
+.Block8__Part2-Center-Part2-Part1-Part2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Block8__Part2-Center-Part2-Part2-Part1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Block8__Part2-Center-Part2-Part2-Part2{
+    background-color: rgb(4,173,82);
+    height: 90px;
+}
+
+.Block8__Part2-Center-Part2-Part2-Part2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Block8__Part2-Center-Part2-Part3-Part1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Block8__Part2-Center-Part2-Part3-Part2{
+    background-color: red;
+    height: 90px;
+}
+
+.Block8__Part2-Center-Part2-Part3-Part2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Block8__Part2-Bottom{
+    height: 31px;
+    background-color: rgb(232, 230, 235);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Block8__Part3{
+    height: 68px;
+    background-color: rgb(198, 224, 177);
+}
+
+.Block8__Part3-Header{
+    height: 20px;
+    width: 33.3%;
+    background-color: rgb(6, 112, 190);
+}
+
+.Block8__Part3-Center{
+    padding-top: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    color: rgb(150, 42, 144);
+    font-weight: bold;
+}
+
+.Block8__Part3-Center-SecondP:first-letter{
+    color: red;
+}
+
+.Block8__Part3-Bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    height: 17px;
+    width: 33.3%;
+    background-color: rgb(199, 88, 19);
+    position: relative;
+    left: 66.6%;
+}

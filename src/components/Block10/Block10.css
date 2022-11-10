@@ -1,0 +1,55 @@
+.Block10__Container{
+    height: 71px;
+    width: 135px;
+    background-color: rgb(112, 48, 162);
+    position: absolute;
+    left: 1122px;
+    top: 355px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.Block10__Header{
+    display: flex;
+    height: 15px;
+}
+
+.Block10__Header div{
+    height: 15px;
+    width: 33.3%;
+}
+
+.Block10__Header-Part1{
+    background-color: rgb(5, 109, 194);
+}
+
+.Block10__Header-Part2{
+    background-color: rgb(86, 133, 53);
+}
+
+.Block10__Header-Part3{
+    background-color: rgb(4, 174, 236);
+}
+
+.Block10__Center{
+    color: white;
+    height: 39px;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block10__Bottom{
+    font-size: 12px;
+    background-color: rgb(248, 135, 153);
+    color: white;
+    font-weight: bold;
+    height: 15px;
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 48px;
+}

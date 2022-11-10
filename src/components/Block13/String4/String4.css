@@ -1,0 +1,41 @@
+.Block13__String4-Container{
+    width: 100%;
+    height: 75px;
+    display: flex;
+}
+
+.Block13__String4-Part1{
+    height: 100%;
+    width: 125px;
+    display: flex;
+}
+
+.Block13__String4-Part1-Left{
+    height: 100%;
+    width: 25px;
+    background-color: rgb(203,87, 12);
+}
+
+.Block13__String4-Part1-Right{
+    height: 100%;
+    position: relative;
+    width: 100px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background: rgb(198, 224, 177);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: bold;
+    border-top: none;
+}
+
+.Block13__String4-Part1-Right-BottomBlock{
+    width: 35px;
+    height: 15px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: rgb(203,87, 12);
+}

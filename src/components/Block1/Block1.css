@@ -1,0 +1,164 @@
+.Block1__Container{
+    position: absolute;
+    height: 155px;
+    width: 415px;
+    left: 45px;
+    top: 30px;
+    background: #FFFFFF;
+    clip-path: polygon(0.00% 0.00%,14.07% 0.18%,50% 0%,100.00% 0.00%,100.00% 55.13%,58.92% 55.58%,59.01% 100%,13.94% 100%,0.00% 100%,0.00% 55.10%,0.00% 22.96%);
+}
+
+.Block1_Part1_Container{
+    width: 335px;
+    height: 65px;
+    cursor: pointer;
+}
+
+.Block1_Part1_Part1{
+    width: 235px;
+    height: 65px;
+    background-color: rgb(1,0,102);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.Block1_Part1_Part1_Header{
+    color: white;
+}
+
+.Block1_Part1_Part1_Header-Left-Text{
+    font-size: 12px;
+    position: relative;
+    left: 10px;
+}
+
+.Block1_Part1_Part1_Header-Right-Text{
+    font-size: 12px;
+    position: relative;
+    top: -12px;
+    left: 200px;
+}
+
+.Block1_Part1_Part1_Header-BlackBox{
+    height: 15px;
+    width: 45px;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    font-size: 12px;
+    padding-top: 3px;
+    background-color: black;
+}
+
+.Block1_Part1_Part1_Main{
+    font-size: 26px;
+    position: relative;
+    left: 85px;
+    top: -25px;
+    color: white;
+    font-weight: bold;
+}
+
+.Block1_Part1_Part1_Footer-Left{
+    top: -30px;
+    left: 5px;
+    color: white;
+    position: relative;
+    font-size: 12px;
+}
+
+.Block1_Part1_Part1_Footer_Right{
+    width: 65px;
+    height: 20px;
+    background-color: greenyellow;
+}
+
+.Block1_Part1_Part1_Footer_Right{
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    position: relative;
+    top: -47px;
+    left: 170px;
+}
+
+.Block1_Part1_Part2{
+    width: 122px;
+    height: 65px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: relative;
+    top: -55px;
+    left: 245px;
+}
+
+.Block1_Part1_Part2_UP{
+    height: 30px;
+    border-bottom: 1px solid black;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.Block1_Part1_Part2_BTM{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.Block1_Part2_Container{
+    height: 75px;
+    width: 205px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.Block1_Part2_Header-BlackBox{
+    height: 15px;
+    width: 45px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    color: white;
+    font-size: 12px;
+    padding-top: 3px;
+    background-color: black;
+}
+
+.Block1_Part2_Main-Text{
+    font-size: 38px;
+    font-weight: bold;
+    color: rgb(162, 51, 169);
+    position: relative;
+    left: 90px;
+    top: -20px;
+}
+
+.Block1_Part2_Green-Box{
+    width: 75px;
+    height: 20px;
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+    position: relative;
+    top: -17px;
+    left: 128px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 5px;
+}
+
+.Block1_Part2-Infinity{
+    color: darkgrey;
+    font-weight: bold;
+    position: relative;
+    font-size: 14px;
+    top: 24px;
+}

@@ -1,0 +1,30 @@
+.Block15__Container{
+    width: 702px;
+    height: 70px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    position: absolute;
+    left: 45px;
+    top: 990px;
+    background-color: #fff;
+}
+
+.Block15__Cell{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    height: 69px;
+    box-sizing: border-box;
+    background-color: rgb(200, 223, 179);
+}
+
+.Block15__Cell-Content{
+    color: rgb(38, 101, 142);
+    font-size: 26px;
+    font-weight: bold;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

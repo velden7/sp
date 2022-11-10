@@ -1,0 +1,104 @@
+.DocsBlock__Part1-Container{
+    width: 1030px;
+    height: 71px;
+    position: absolute;
+    right: 20px;
+    bottom: 39px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: rgb(200, 223, 179);
+    display: flex;
+}
+
+.DocsBlock__Part1-Container div{
+    height: 69px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid black;
+    box-sizing: border-box;
+    font-weight: bold;
+    color: rgb(38, 56, 78);
+    font-size: 30px;
+}
+
+.DocsBlock__Part1-Part1{
+    width: 160px;
+}
+
+.DocsBlock__Part1-Part2{
+    width: 175px;
+}
+
+.DocsBlock__Part1-Part3{
+    width: 180px;
+    font-size: 26px !important;
+}
+
+.DocsBlock__Part1-Part4{
+    width: 155px;
+    font-size: 26px !important;
+}
+
+.DocsBlock__Part1-Part5{
+    width: 170px;
+}
+
+.DocsBlock__Part1-Part5 p{
+    color: rgb(239, 150, 142)
+}
+
+.DocsBlock__Part1-Part6{
+    width: 210px;
+    border-right: none !important;
+}
+
+.DocsBlock__Part1-Part6 p{
+    color: rgb(154, 36, 148);
+}
+
+.DocsBlock__Part2-Container{
+    width: 526px;
+    height: 71px;
+    position: absolute;
+    right: 20px;
+    bottom: 110px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-bottom: none;
+    background-color: rgb(200, 223, 179);
+    display: flex;
+}
+
+.DocsBlock__Part2-Container div{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 1px solid black;
+    box-sizing: border-box;
+    font-weight: bold;
+    color: rgb(38, 56, 78);
+    font-size: 30px;
+}
+
+.DocsBlock__Part2-Container div p{
+    color: rgb(58,68,38);
+    font-size: 36px;
+}
+
+.DocsBlock__Part2-Part1{
+    width: 152px;
+    font-size: 26px !important;
+}
+
+.DocsBlock__Part2-Part2{
+    width: 167px;
+    font-size: 24px !important;
+}
+
+.DocsBlock__Part2-Part3{
+    width: 205px;
+    border-right: none !important;
+    font-size: 22px !important;
+}

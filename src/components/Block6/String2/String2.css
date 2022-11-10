@@ -1,0 +1,98 @@
+.Block6__String2{
+    width: 653px;
+    height: 80px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-top: none;
+    position: relative;
+    left: 10px;
+    display: flex;
+}
+
+.Block6__String2__Part1{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    box-sizing: border-box;
+    height: 79px;
+    width: 145px;
+    background-color: rgb(202, 1, 203);
+    display: flex;
+}
+
+.Block6__String2__Part1-Left{
+    width: 50px;
+    height: 78px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.Block6__String2__Part1-Left-Header{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Block6__String2__Part1-Left-Bottom{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.Block6__String2__Part1-Right{
+    width: 95px;
+    height: 78px;
+}
+
+.Block6__String2__Part1-Right-Text{
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.Block6__String2__Part1-Right-Bottom {
+    box-sizing: border-box;
+    margin-top: 16px;
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    height: 20px;
+    text-align: center;
+}
+
+.Block6__String2__Part2{
+    width: 508px;
+    height: 79px;
+}
+
+.Block6__String2__Part2-Header{
+    text-align: right;
+    font-weight: bold;
+    font-size: 12px;
+    padding-right: 10px;
+    padding-top: 3px;
+}
+
+.Block6__String2__Part2-Center{
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.Block6__String2__Part2-Bottom{
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Block6__String2__Part2-Bottom-Inf{
+    color: lightgray;
+}

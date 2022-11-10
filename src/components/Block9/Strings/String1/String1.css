@@ -1,0 +1,83 @@
+.Block9__String1-Container{
+    display: flex;
+    height: 71px;
+}
+
+.Block9__String1-Part1{
+    width: 175px;
+    background: white;
+    border: 1px solid black;
+    border-left: none;
+}
+
+.Block9__String1-Part1-Header{
+    height: 15px;
+    background-color: rgb(7, 109, 193);
+}
+
+.Block9__String1-Part1-Center{
+    height: 35px;
+    color: rgb(7, 109, 193);
+    font-weight: bold;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block9__String1-Part1-Bottom{
+    height: 19px;
+    background-color: rgb(7, 109, 193);
+}
+
+.Block9__String1-Part2{
+    width: 155px;
+    background: white;
+    border: 1px solid black;
+    border-left: none;
+}
+
+.Block9__String1-Part2-Header{
+    height: 15px;
+    background-color: rgb(84, 135, 56);
+}
+
+.Block9__String1-Part2-Center{
+    height: 35px;
+    color: rgb(84, 135, 56);
+    font-weight: bold;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block9__String1-Part2-Bottom{
+    height: 19px;
+    background-color: rgb(84, 135, 56);
+}
+
+.Block9__String1-Part3{
+    width: 176px;
+    background-color: #fff;
+}
+
+.Block9__String1-Part3-Header{
+    height: 16px;
+    background-color: rgb(6, 174, 239);
+}
+
+.Block9__String1-Part3-Center{
+    height: 35px;
+    color: rgb(6, 174, 239);
+    font-weight: bold;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block9__String1-Part3-Bottom{
+    height: 20px;
+    background-color: rgb(6, 174, 239);
+}

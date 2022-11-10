@@ -1,0 +1,201 @@
+.Block7__Container {
+    width: 1425px;
+    height: 75px;
+    box-sizing: border-box;
+    background-color: white;
+    border: 1px solid black;
+    position: absolute;
+    left: 45px;
+    top: 810px;
+    display: flex;
+}
+
+.Block7__Container__Part1 {
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 130px;
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    height: 73px;
+}
+
+.Block7__Container__Part2 {
+    width: 150px;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    height: 73px;
+}
+
+.Block7__Container__Part3 {
+    width: 140px;
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    background-color: rgb(252, 228, 216);
+    font-weight: bold;
+}
+
+.Block7__Container__Part3-El1 {
+    color: rgb(146, 42, 137);
+}
+
+.Block7__Container__Part3-El2 {
+    color: rgb(49, 94, 125)
+}
+
+.Block7__Container__Part3-El2:first-letter {
+    color: red;
+}
+
+.Block7__Container__Part4 {
+    width: 145px;
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Block7__Container__Part5 {
+    width: 175px;
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    background-color: rgb(174, 170, 169);
+    display: flex;
+}
+
+.Block7__Container__Part567-LeftBlock {
+    height: 73px;
+    width: 40px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.Block7__Container__Part567-CenterBlock-Header {
+    font-size: 12px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Block7__Container__Part567-CenterBlock-Center {
+    padding-top: 10px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.Block7__Container__Part567-CenterBlock-Bottom {
+    color: white;
+    font-size: 12px;
+    padding-top: 5px;
+    text-align: right;
+    font-weight: bold;
+    position: relative;
+    left: 15px;
+}
+
+.Block7__Container__Part6 {
+    width: 175px;
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    background-color: rgb(174, 170, 169);
+    display: flex;
+}
+
+.Block7__Container__Part7 {
+    display: flex;
+    border-right: 1px solid black;
+    width: 175px;
+    background-color: rgb(208, 206, 207);
+}
+
+.Block7__Container__Part8 {
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    width: 135px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Block7__Container__Part9{
+    box-sizing: border-box;
+    border-right: 1px solid black;
+    width: 100px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(252, 228, 218);
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.Block7__Container__Part9-Green{
+    color: rgb(63, 79, 40);
+}
+
+.Block7__Container__Part9-Sea{
+    color: rgb(69, 154, 184);
+}
+
+.Block7__Container__Part10{
+    width: 100px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 28px;
+    background-color: rgb(255,131,135);
+}
+
+.Block7__Arrow1{
+    position: absolute;
+    width: 35px;
+    height: 0px;
+    left: 635px;
+    top: -20px;
+    border: 1px dashed #000000;
+    transform: rotate(90deg);
+}
+
+.Block7__Arrow2{
+    position: absolute;
+    width: 35px;
+    height: 0px;
+    left: 820px;
+    top: -20px;
+    border: 1px dashed #000000;
+    transform: rotate(90deg);
+}
+
+.Block7__Arrow3{
+    position: absolute;
+    width: 35px;
+    height: 0px;
+    left: 975px;
+    top: -20px;
+    border: 1px dashed #000000;
+    transform: rotate(90deg);
+}

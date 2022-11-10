@@ -1,0 +1,152 @@
+.Block9__Container{
+    width: 508px;
+    position: absolute;
+    top: 355px;
+    left: 615px;
+}
+
+.Block9__Cell-LeftPart{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Block9__Cell-LeftPart-UP{
+    position: relative;
+    top: 15px;
+    height: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.Block9__Cell-LeftPart-UP-Brown{
+    background-color: rgb(131, 61, 12);
+}
+
+.Block9__Cell-LeftPart-UP-LightBrown{
+    background-color: rgb(192,87,21);
+}
+
+.Block9__Cell-LeftPart-Bottom{
+    padding-left: 3px;
+    text-align: center;
+}
+
+.Block9__Cell-Center-Header{
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Block9__Cell-Center-Header-Left{
+    min-width: 35px;
+    height: 15px;
+    text-align: center;
+}
+
+.Block9__Cell-Center-Header-Right{
+    min-width: 30px;
+    height: 15px;
+    text-align: center;
+}
+
+.Block9__Cell-Center-Header-Right-Purple{
+    background-color: rgb(253, 181, 244);
+}
+
+.Block9__Cell-Center-Header-Right-Blue{
+    background-color: rgb(180, 250, 248);
+}
+
+.Block9__Cell-Center-Header-Right-White{
+    background: white;
+}
+
+.Block9__Cell-Center-Center{
+    height: calc(100% - 15px);
+    font-size: 32px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block9__Cell-Center-Center-LastLetter-DarkGreen{
+    color: darkgreen;
+}
+
+.Block9__Cell-Center-Center-LastLetter-Red{
+    color: red;
+}
+
+.Block9__Cell-Center-Center-FirstLetter{
+    color: red;
+}
+
+.Block9__Cell-RightPart{
+    width: 39px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Block9__Cell-RightPart-UP{
+    width: 39px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Block9__Cell-RightPart-UP p{
+    width: 13px;
+    height: 13px;
+}
+
+.Block9__Cell-RightPart-UP-Purple{
+    background-color: purple;
+}
+
+.Block9__Cell-RightPart-UP-Yellow{
+    background-color: yellow;
+}
+
+.Block9__Cell-RightPart-UP-Green{
+    background-color:   green;
+}
+
+.Block9__Cell-RightPart-UP-Red{
+    background-color: red;
+}
+
+.Block9__Cell-RightPart-UP-LightYellow{
+    background-color: rgb(253, 251, 164);
+}
+
+.Block9__Cell-RightPart-UP-LightGreen{
+    background-color: rgb(148, 206, 85);
+}
+
+.Block9__Cell-RightPart-UP-Grey{
+    background-color: lightgray;
+}
+
+.Block9__Cell-RightPart-Down-Infinity{
+    background-color: rgb(131, 60, 16);
+    height: 15px;
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block9__Cell-RightBrown{
+    background-color: rgb(192, 87, 21);
+}

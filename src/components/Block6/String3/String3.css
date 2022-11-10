@@ -1,0 +1,60 @@
+.Block6__String3{
+    height: 66px;
+    width: 508px;
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-top: none;
+    left: 155px;
+    background-color: rgb(254, 231, 153);
+}
+
+.Block6__String3-Header{
+    display: flex;
+    padding-left: 270px;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+.Block6__String3-Header-ColoredBlock{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgb(201, 251, 248);
+}
+
+.Block6__String3-Header-Number{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Block6__String3-Center{
+    padding-top: 5px;
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Block6__String3-Center:first-letter{
+    color: darkviolet;
+}
+
+.Block6__String3-Bottom{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    top: 2px;
+}
+
+.Block6__String3-Bottom-ColoredBlock{
+    margin-right: 35px;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(232, 161, 159);
+}
+
+.Block6__String3-Bottom-Number{
+    font-size: 12px;
+    font-weight: bold;
+}

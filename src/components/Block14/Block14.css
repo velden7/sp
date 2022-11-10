@@ -1,0 +1,62 @@
+.Block14__Container{
+    width: 1225px;
+    height: 74px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    box-sizing: border-box;
+    display: flex;
+    position: absolute;
+    left: 45px;
+    top: 900px;
+    background-color: #fff;
+}
+
+.Block14__Cell{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    box-sizing: border-box;
+    background-color: rgb(252, 227, 220);
+    height: 73px;
+}
+
+.Block14__Cell-Header{
+    height: 15px;
+    padding-left: 45px;
+    font-weight: bold;
+    color: black;
+    font-size: 12px;
+}
+
+.Block14__Cell-Content{
+    color: rgb(38, 101, 142);
+    font-size: 26px;
+    font-weight: bold;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block14__Part2{
+    width: 150px;
+}
+
+.Block14__Part3{
+    width: 200px;
+}
+
+.Block14__Part4{
+    width: 175px;
+}
+
+.Block14__Part5{
+    width: 170px;
+}
+
+.Block14__Part6{
+    width: 165px;
+}
+
+.Block14__Part7{
+    width: 188px;
+}

@@ -1,0 +1,40 @@
+.Block6__Container{
+    padding-top: 10px;
+    top: 30px;
+    left: 460px;
+    width: 795px;
+    height: 305px;
+    position: absolute;
+    background-color: rgb(238, 140, 155);
+    clip-path: polygon(14.14% 22.92%,14.07% 0.18%,50% 0%,100.00% 0.00%,100.00% 30.88%,89.24% 30.91%,89.10% 100%,13.94% 100%,13.94% 55.06%,0.00% 55.10%,0.00% 22.96%);
+}
+
+.Block6__Arrow1{
+    position: absolute;
+    width: 30px;
+    height: 0;
+    left: 681px;
+    top: 345px;
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+
+.Block6__Arrow2{
+    position: absolute;
+    width: 30px;
+    height: 0;
+    left: 850px;
+    top: 345px;
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+
+.Block6__Arrow3{
+    position: absolute;
+    width: 30px;
+    height: 0;
+    left: 1020px;
+    top: 343px;
+    border: 1px solid rgba(3, 176, 242);
+    transform: rotate(90deg);
+}

@@ -1,0 +1,65 @@
+.Block9__String6-Container{
+    background-color: #fff;
+    display: flex;
+    height: 73px;
+}
+
+.Block9__String6-Part1{
+    display: flex;
+    height: 72px;
+    width: 174px;
+    background-color: rgb(200, 223, 179);
+    border: 1px solid black;
+    border-top: none;
+}
+
+.Block9__String6-Part1-CustomColor{
+    background-color: rgb(249, 196, 6);
+}
+
+.Block9__String6-Part2{
+    height: 72px;
+    width: 155px;
+    border: 1px solid black;
+    border-left: none;
+    border-top: none;
+}
+
+.Block9__String6-Part2-Header{
+    text-align: right;
+    padding-right: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 3px;
+    height: 15px;
+}
+
+.Block9__String6-Part2-Center{
+    color: rgb(171, 170, 168);
+    font-size: 32px;
+    height: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Block9__String6-Part2-Bottom{
+    padding-left: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Block9__String6-Part3{
+    display: flex;
+    height: 72px;
+    width: 175px;
+    background-color: rgb(252, 227, 220);
+    border: 1px solid black;
+    border-left: none;
+    border-top: none;
+}
+
+.Block9__String6-Part3-Colored{
+    background-color: rgb(247, 203, 174);
+}

@@ -1,0 +1,42 @@
+.Block13__String1-Container{
+    height: 75px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Block13__String1-Part1{
+    width: 135px;
+    height: 100%;
+    display: flex;
+}
+
+.Block13__String1-Part1-Left{
+    width: 25px;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+.Block13__String1-Part1-Right{
+    width: 110px;
+    height: 100%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Block13__String1-Part2{
+    width: 115px;
+    background-color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-left: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

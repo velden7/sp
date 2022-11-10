@@ -1,0 +1,7 @@
+.Modal__InnerContent-Container{
+    max-width: 700px;
+    height: 80vh;
+    overflow: scroll;
+    margin: 0 auto;
+    padding-right: 5px;
+}

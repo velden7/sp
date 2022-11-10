@@ -1,0 +1,46 @@
+.Block3__Container{
+    width: 175px;
+    height: 95px;
+    position: absolute;
+    background-color: rgb(238, 140, 155);
+    left: 295px;
+    top: 175px;
+}
+
+.Block3__InnerContainer{
+    height: 67px;
+    width: 148px;
+    background-color: rgb(179, 200, 231);
+    border: 1px solid black;
+    position: relative;
+    top: 13px;
+    left: 12px;
+}
+
+.Block3__MainText{
+    font-size: 32px;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    top: -7px;
+}
+
+.Block3__SubBlock{
+    color: white;
+    width: 85px;
+    height: 15px;
+    font-size: 10px;
+    background-color:rgb(238, 140, 155);
+    text-align: center;
+    position: relative;
+    padding-top: 5px;
+    left: 63px;
+    top: -1px;
+}
+
+.Block3_Number{
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 135px;
+}
