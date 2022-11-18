@@ -5,7 +5,7 @@ import './Modal.css';
 const Modal = ({visible, hide, childrenBlock}) => {
 
     return (
-        <PopPop position="centerCenter"
+        <PopPop position="topLeft"
                 open={visible}
                 closeBtn={true}
                 closeOnEsc={true}
