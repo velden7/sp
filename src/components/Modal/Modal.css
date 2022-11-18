@@ -1,6 +1,6 @@
 .Modal__InnerContent-Container{
-    max-width: 100vw;
-    height: 95vh;
+    max-width: 80vmax;
+    height: 80vh;
     margin: 0 auto;
     padding-right: 4px;
 }
