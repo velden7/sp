@@ -33,7 +33,7 @@ const Block1 = ({openModal}) => {
                 <ModalBody>
                     <div>
             
-            <img src="https://legal.report/wp-content/uploads/2018/06/Komst.jpg" alt="Аппарат КС РФ">
+            <img src="https://legal.report/wp-content/uploads/2018/06/Komst.jpg" alt="Аппарат КС РФ"/>
             
             
                     </div>
