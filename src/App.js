@@ -24,19 +24,15 @@ function App() {
     const [modalVisibe, setVisible] = useState(false);
     const [child, setChild] = useState(null);
 
-    const openModal = () => {
-        setVisible(true)
-    }
-
-    const setChildFunc = (content) => {
+    const openModal = (content) =>{
         setChild(content)
+        setVisible(true)
     }
 
     return (
         <div className="App__Сontainer">
             <Block1
                 openModal={openModal}
-                setChild={setChildFunc}
             />
             <Block2/>
             <Block3/>

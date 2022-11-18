@@ -1,36 +1,31 @@
 import React from 'react';
 import './Block1.css';
-import ReactAudioPlayer from "react-audio-player";
+import ModalTitle from "../Modal/Components/ModalTitle/ModalTitle";
+import ModalAudio from "../Modal/Components/ModalAudio/ModalAudio";
+import ModalBody from "../Modal/Components/ModalBody/ModalBody";
 
-const Block1 = ({setChild, openModal}) => {
+const Block1 = ({openModal}) => {
 
     const openModalBlock1 = () => {
-        setChild(
+        openModal(
             <>
-
-                <h1 style={{textAlign: 'center'}}>Тут инофрмация - о чем-то</h1>
-                <ReactAudioPlayer
-                    autoPlay={false}
-                    controls={true}
-                    src='/audio/test.mp3'
-                    style={{margin: '10px', textAlign:'center'}}
-                />
-                <div>МЫ любим СИПО!!!!!
-                </div>
-                <div>МЫ любим СИПО!!!!!
-                </div>
-                <div>МЫ любим СИПО!!!!!
-                </div>
-                <div>МЫ любим СИПО!!!!!
-                </div>
-                <div>МЫ любим СИПО!!!!!
-                </div>
-                <div>МЫ любим СИПО!!!!!
-                </div>
-              
+                <ModalTitle>Конституционный суд</ModalTitle>
+                <ModalAudio path='/audio/test.mp3'></ModalAudio>
+                <ModalBody>
+                    <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis ducimus facilis hic iste
+                        libero maxime officia, omnis optio quas suscipit tempora ut. Architecto cum dicta impedit
+                        incidunt necessitatibus quidem tempora.
+                    </div>
+                    <ol>
+                        <li>1</li>
+                        <li>2</li>
+                        <li>3</li>
+                        <li>4</li>
+                        <li>5</li>
+                    </ol>
+                </ModalBody>
             </>
         );
-        openModal()
     }
 
     return (

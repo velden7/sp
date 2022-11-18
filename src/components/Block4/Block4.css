@@ -13,11 +13,11 @@
     box-sizing: border-box;
     height: 100px;
     border-bottom: 1px solid black;
+    display: flex;
 }
 
 .Block4__Part1-LeftSide {
     width: 25px;
-    display: inline-block;
     height: 100%;
 }
 
@@ -32,9 +32,6 @@
 }
 
 .Block4__Part1-RigthSide {
-    position: relative;
-    top: -24px;
-    display: inline-block;
     width: 128px;
     height: 100%;
 }
